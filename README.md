@@ -1,7 +1,9 @@
 # twitter_space_ui
-
 A new Flutter project.
 
+## Screenshots
+![Screenshot from 2023-02-03 04-59-30](https://user-images.githubusercontent.com/34950749/216510141-c4a307f4-c92f-45f3-8a5f-7f0753d41a7b.png)
+![Screenshot from 2023-02-03 04-59-44](https://user-images.githubusercontent.com/34950749/216510258-d6071781-100f-49c7-8097-c3e2a4136893.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
